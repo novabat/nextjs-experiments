@@ -1,5 +1,5 @@
 import { TextField } from "@mui/material";
-const MemberForm = ({ index }:any) => {
+const MemberForm = ({ index }: any) => {
   console.log("memberFormRender", index);
   return (
     <div>
